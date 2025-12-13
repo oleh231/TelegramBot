@@ -1,7 +1,7 @@
 require 'telegram/bot'
 require 'json'
 
-TOKEN = '8536443739:AAHcvwdB21B_iRqw0RSL5Nuqz_qN52m2Pnw'
+TOKEN = 'ключ'
 QUOTES_FILE = 'quotes.json'
 USER_STATE = {}
 ACTIVE_USERS = {}
